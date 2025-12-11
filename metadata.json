@@ -1,0 +1,8 @@
+{
+  "name": "Kinetic Particles",
+  "description": "A real-time 3D particle system controlled by hand gestures and voice commands",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
